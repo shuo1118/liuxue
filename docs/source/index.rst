@@ -10,4 +10,4 @@ Welcome to shuoboshi_liuxuefuwu's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   ps.md
+   ps
