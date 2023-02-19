@@ -10,11 +10,4 @@ Welcome to shuoboshi_liuxuefuwu's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   ps.md
