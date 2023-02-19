@@ -11,5 +11,6 @@
    :caption: 目录:
 
    ps
+   ps2
    cv
    rl
