@@ -8,7 +8,7 @@
 
 project = '留学指导'
 copyright = '2023, shuo'
-author = '硕'
+author = 'shuo1118'
 release = '0.0.0'
 
 # -- General configuration ---------------------------------------------------
