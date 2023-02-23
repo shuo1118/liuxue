@@ -2,7 +2,7 @@
 ======
 .. toctree::
 	:maxdepth: 2
-	:caption:  ps
+	:caption:  rl
 
 	rl
 	rl2
