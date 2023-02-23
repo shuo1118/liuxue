@@ -2,7 +2,7 @@
 ======
 .. toctree::
 	:maxdepth: 2
-	:caption:  cv
+	:caption: 
 
 	cv
 	cv2
