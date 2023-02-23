@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'shuoboshi_liuxuefuwu'
+project = '留学指导'
 copyright = '2023, shuo'
-author = 'shuo'
+author = '硕'
 release = '0.0.0'
 
 # -- General configuration ---------------------------------------------------
