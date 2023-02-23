@@ -5,4 +5,4 @@
 	:caption:  ps
 
 	ps
-  ps2
+	ps2
