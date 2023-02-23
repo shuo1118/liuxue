@@ -10,6 +10,6 @@
    :maxdepth: 2
    :caption: 目录:
 
-   ps/inde
+   ps/index
    rl/index
    cv/index
