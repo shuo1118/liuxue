@@ -19,8 +19,11 @@ Sincerely,
 Zhang Jian
 
 Title:XX
+
 Phone：XX
+
 Email：XX
+
 Institution：XX 
 
 中文版本
@@ -39,9 +42,13 @@ Institution：XX
 真诚地，
 
 张健
+
 职称/头衔:
+
 电话:
+
 电子邮件:
+
 机构/单位:
 
 范文分析
